@@ -1,0 +1,2 @@
+# Music genre classification using deep learning
+ This repository houses an innovative approach to music categorization, aiming to enrich the understanding and exploration of diverse musical styles by incorporating often overlooked sub-genres within widely recognized categories like pop, classical, and rock. The project is dedicated to broadening the horizons of music enthusiasts and researchers alike, facilitating a comprehensive and nuanced exploration of the intricate tapestry of contemporary and classical musical genres.
