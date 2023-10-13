@@ -1,0 +1,24 @@
+Rock
+
+Classic Rock
+Alternative Rock
+Punk Rock
+Hard Rock
+Metal
+Heavy Metal
+Thrash Metal
+Death Metal
+Black Metal
+Power Metal
+Doom Metal
+Progressive Metal
+Indie Rock
+Garage Rock
+Psychedelic Rock
+Surf Rock
+Post-Rock
+Glam Rock
+Folk Rock
+Math Rock
+Shoegaze
+Christian Rock
